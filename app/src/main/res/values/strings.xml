@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="qu_n_l_danh_b">QUẢN LÝ DANH BẠ</string>
+    <string name="t_n_danh_b">Tên danh bạ</string>
+    <string name="s_i_n_tho_i">Số điện thoại</string>
+    <string name="gi_i_t_nh">Giới tính</string>
+    <string name="nam">Nam</string>
+    <string name="n">Nữ</string>
+    <string name="th_m_danh_b">Thêm danh bạ</string>
+    <string name="g_i">Gọi</string>
+    <string name="g_i_sms">Gửi SMS</string>
+</resources>
